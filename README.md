@@ -12,7 +12,7 @@ This needs for Employees who doesn't have their photo
 
 3. Launch DepartmentApi then check your url and compare its with ApiUrl & PhotoUrl in the DepartmentApi\UI\angelar11\src\app shared.service.ts
 
-3.1 if your url is the same, you can Launch Angular FrontEnd (Use 'cmd' in folders url then use command 'ng serve --open' in console )
+3.1 if your url is the same, you can Launch Angular FrontEnd (Use 'cmd' in app folder url then use command 'ng serve --open' in console )
 
 3.2 if not, change ApiUrl & PhotoUrl to your localhost (example https://localhost:5001(your localhOst)/Photos/) and do clause 3.1
 
