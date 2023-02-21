@@ -16,4 +16,6 @@ This needs for Employees who doesn't have their photo
 
 3.2 if not, change ApiUrl & PhotoUrl to your localhost (example https://localhost:5001(your localhOst)/Photos/) and do clause 3.1
 
+p.s. server and client run separately
+
 gl hf
