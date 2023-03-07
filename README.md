@@ -1,4 +1,4 @@
-# DepartmentApi
+# Department_REST_Api
 Angular&amp;Asp.net core project 
 
 To get started with this project :
